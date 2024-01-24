@@ -2,6 +2,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/NianBroken/ZFCheckScores/img/19.png" style="zoom:60%;" />
 
+# 现状
+我是NianBroken，由于我开发的该项目被学校发现并给予处分，我决定将代码隐藏起来。  
+
 ## 简介
 
 **使用本项目前：**
